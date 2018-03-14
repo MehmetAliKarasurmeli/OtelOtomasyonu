@@ -24,8 +24,8 @@ Kullanılan Teknolojiler : Java SE, Java Swing Kütüphanesi, MySQL, OOP.
 <a href="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/4.gif" target="_blank">
 <img src="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/4.gif" width="200" style="max-width:100%;"></a>&nbsp; &nbsp; &nbsp;
 
-<a href="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/5.gif" target="_blank">
-<img src="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/5.gif" width="200" style="max-width:100%;"></a>&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/5.png" target="_blank">
+<img src="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/5.png" width="200" style="max-width:100%;"></a>&nbsp; &nbsp; &nbsp;
 
 <a href="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/6.gif" target="_blank">
 <img src="https://github.com/MehmetAliKarasurmeli/OtelOtomasyonu/blob/master/Proje%20G%C3%B6r%C3%BCnt%C3%BCleri/6.gif" width="200" style="max-width:100%;"></a>
